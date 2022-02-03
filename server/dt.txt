@@ -1,0 +1,15 @@
+anuragsaini - Anurag
+
+preject name - mern
+
+mongodb+srv://anuragsaini:Anurag@cluster0.siriu.mongodb.net/mernstack?retryWrites=true&w=majority
+
+
+{
+    "name": "Anurag",
+    "email": "anuragsaini2472002@gmail.com",
+    "phone": 8397007464,
+    "work": "Data Engineer",
+    "password": "Anurag",
+    "cpassword": "Anurag"
+}
