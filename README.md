@@ -1,5 +1,5 @@
 # mern_registration
-This is normally registration page in MERN stack.
+Basic registration pages in MERN stack.
 # run backend with node
 Firstly you need to start server in your backend part. That why you goes first in server folder and 
 Run nodemon app.js or node app.js command.
